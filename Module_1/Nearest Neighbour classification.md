@@ -8,5 +8,5 @@
 - Each image is compared with our_image pixel by pixel, add up all the differences and the image with
   least difference will be taken.
 - In other words, given two images and representing them as vectors **I1** and **I2**, We take L1
-- distance between them. 
+  distance between them. \n
                                       d1(I1,I2)=∑p|Ip1−Ip2|
